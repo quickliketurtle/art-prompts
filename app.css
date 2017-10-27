@@ -1,0 +1,7 @@
+#app {
+    font-family: 'Rubik', sans-serif;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
