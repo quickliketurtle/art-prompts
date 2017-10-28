@@ -10,5 +10,5 @@ let adjective = getRandomElement(adjectives);
 let noun = getRandomElement(nouns);
 let verb = getRandomElement(verbs);
 
-let app = document.getElementById('app');
-app.innerHTML = `<h1>${adjective} ${noun} ${verb}</h1>`;
+let box = document.querySelector('.box');
+box.innerHTML = `<h1>${adjective} ${noun} ${verb}</h1>`;
