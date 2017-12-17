@@ -13,12 +13,12 @@
  * override them.
  *
  * Example:
- * 
+ *
  * .btn { ... }
  * .form-input { ... }
  *
  * Or if using a preprocessor:
- * 
+ *
  * @import "components/buttons";
  * @import "components/forms";
  */
@@ -39,7 +39,7 @@
  * .skew-45 { ... }
  *
  * Or if using a preprocessor..
- * 
+ *
  * @import "utilities/backgrond-patterns";
  * @import "utilities/skew-transforms";
  */

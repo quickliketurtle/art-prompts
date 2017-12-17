@@ -3,7 +3,7 @@ let nouns = ['lizzard', 'zebra', 'rock', 'sky', 'leaf'];
 let verbs = ['running', 'burning', 'dying', 'falling', 'eating'];
 let adjective;
 let noun;
-let verb ;
+let verb;
 
 let result = document.querySelector('#result');
 let generate = document.querySelector('#generate');
